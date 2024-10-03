@@ -10,7 +10,7 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
 - 8.- seleccionar interprete de python --> presione f1
 - 9.- Actualizar pip -->  python -m pip install --upgrade pip
 - 10.- Instalar Framework Django --> python -m pip install django
-- 11.- Crear el proyecto en python -->  cbtis1285j1282 .
+- 11.- Crear el proyecto en python -->  django-admin startproject P3cbtis1282 .
 - 12.- Ejecutar el servidor -->  python manage.py runserver
 - 13.- Realizar migración -->  python manage.py migrate
 - 14.- Vuelve a Ejecutar servidor 
