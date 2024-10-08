@@ -13,4 +13,9 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
 - 11.- Crear el proyecto en python -->  django-admin startproject P3cbtis1282 .
 - 12.- Ejecutar el servidor -->  python manage.py runserver
 - 13.- Realizar migración -->  python manage.py migrate
-- 14.- Vuelve a Ejecutar servidor 
+- 14.- Vuelve a Ejecutar servidor
+
+- EXTRA, posibles soluciones a bugs:
+- Navega a la carpeta del proyecto: -->  cd C:\p4_1282_5j\P4cbtis1282
+- Ejecutar -->  python manage.py runserver
+
