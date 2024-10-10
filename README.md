@@ -16,7 +16,4 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
 - 14.- Vuelve a Ejecutar servidor
 
 
-- EXTRA, posibles soluciones a bugs:
-- Navega a la carpeta del proyecto: -->  cd C:\p4_1282_5j\P4cbtis1282
-- Ejecutar -->  python manage.py runserver
-
+  ![image](https://github.com/user-attachments/assets/43ea70ba-1480-4d9c-8679-b7e492ff17eb)
