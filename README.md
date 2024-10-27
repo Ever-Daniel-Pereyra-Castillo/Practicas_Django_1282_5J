@@ -17,7 +17,6 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
 
   EXTRA
 - 15.- Crear Aplicación --> py .\manage.py startapp App1
-
 - 17.- NavBar Bootstrap --> https://getbootstrap.com/docs/4.3/components/navbar/
-
+- 18.- Crear migracion --> python manage.py makemigrations
   ![image](https://github.com/user-attachments/assets/43ea70ba-1480-4d9c-8679-b7e492ff17eb)
