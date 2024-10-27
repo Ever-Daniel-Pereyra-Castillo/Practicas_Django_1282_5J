@@ -18,8 +18,8 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
   EXTRA
 - 15.- Crear Aplicación --> py .\manage.py startapp App1
 - 16.- NavBar Bootstrap --> https://getbootstrap.com/docs/4.3/components/navbar/
-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-- 17.- Crear migracion --> python manage.py makemigrations
-- 18.- Crear Admin --> python  manage.py createsuperuser
+- 17.- Etiqueta <link> --> https://getbootstrap.com/docs/4.3/getting-started/introduction/
+- 18.- Crear migracion --> python manage.py makemigrations
+- 19.- Crear Admin --> python  manage.py createsuperuser
   
   ![image](https://github.com/user-attachments/assets/43ea70ba-1480-4d9c-8679-b7e492ff17eb)
