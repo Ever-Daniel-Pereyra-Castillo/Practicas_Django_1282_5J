@@ -19,6 +19,5 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
 - 15.- Crear Aplicación --> py .\manage.py startapp App1
 
 - 17.- NavBar Bootstrap --> https://getbootstrap.com/docs/4.3/components/navbar/
-- 18.- Etiqueta para que funciones Bootstrap 4.3 --> <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
   ![image](https://github.com/user-attachments/assets/43ea70ba-1480-4d9c-8679-b7e492ff17eb)
