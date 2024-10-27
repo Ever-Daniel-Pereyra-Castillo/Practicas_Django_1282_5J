@@ -15,5 +15,8 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
 - 13.- Realizar migración -->  python manage.py migrate
 - 14.- Vuelve a Ejecutar servidor
 
+  EXTRA
+  - 15.- Crear Aplicación --> py .\manage.py startapp App1
+
 
   ![image](https://github.com/user-attachments/assets/43ea70ba-1480-4d9c-8679-b7e492ff17eb)
