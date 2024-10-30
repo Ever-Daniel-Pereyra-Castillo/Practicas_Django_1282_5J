@@ -10,16 +10,18 @@ Aquí se realizan las practicas en Django que es un framework Marco de trabajo
 - 8.- seleccionar interprete de python --> presione f1
 - 9.- Actualizar pip -->  python -m pip install --upgrade pip
 - 10.- Instalar Framework Django --> python -m pip install django
-- 11.- Crear el proyecto en python -->  django-admin startproject P3cbtis1282 .
+- 11.- Crear el proyecto en python -->  django-admin startproject backend .
 - 12.- Ejecutar el servidor -->  python manage.py runserver
-- 13.- Realizar migración -->  python manage.py migrate
-- 14.- Vuelve a Ejecutar servidor
+- 13.- Crear Aplicación --> py .\manage.py startapp app
+- 14.- Crear migracion --> python manage.py makemigrations
+- 15.- Realizar migración -->  python manage.py migrate
+- 16.- Crear migracion --> python manage.py makemigrations
+- 17.- Vuelve a Ejecutar servidor
 
   EXTRA
-- 15.- Crear Aplicación --> py .\manage.py startapp App1
-- 16.- NavBar Bootstrap --> https://getbootstrap.com/docs/4.3/components/navbar/
-- 17.- Etiqueta link --> https://getbootstrap.com/docs/4.3/getting-started/introduction/
-- 18.- Crear migracion --> python manage.py makemigrations
-- 19.- Crear Admin --> python  manage.py createsuperuser
+- 18.- Etiqueta link --> https://getbootstrap.com/docs/4.3/getting-started/introduction/
+- 19.- NavBar Bootstrap --> https://getbootstrap.com/docs/4.3/components/navbar/
+
+
   
   ![image](https://github.com/user-attachments/assets/43ea70ba-1480-4d9c-8679-b7e492ff17eb)
